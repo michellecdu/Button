@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Button</string>
+    <string name="grow">Increase!</string>
+    <string name="hi_mom">0</string>
+    <string name="reduce">Decrease!</string>
+    <string name="set_zero">Set Back to Zero</string>/>
+</resources>
